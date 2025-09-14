@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clampv2/static/css/main.0ba6c1d5.css",
+    "main.js": "/clampv2/static/js/main.301eadd7.js",
+    "static/js/453.0a1f1b2d.chunk.js": "/clampv2/static/js/453.0a1f1b2d.chunk.js",
+    "index.html": "/clampv2/index.html",
+    "main.0ba6c1d5.css.map": "/clampv2/static/css/main.0ba6c1d5.css.map",
+    "main.301eadd7.js.map": "/clampv2/static/js/main.301eadd7.js.map",
+    "453.0a1f1b2d.chunk.js.map": "/clampv2/static/js/453.0a1f1b2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ba6c1d5.css",
+    "static/js/main.301eadd7.js"
+  ]
+}
