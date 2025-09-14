@@ -145,7 +145,7 @@ const App = () => {
     setSimulating(true);
     set(ref(db, "current_now"), "0.073");
     setTimeout(() => {
-      set(ref(db, "current_now"), "0.075");
+      set(ref(db, "current_now"), "0.073");
     }, 1000);
   };
 
