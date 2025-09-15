@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/clampv2/static/css/main.0ba6c1d5.css",
-    "main.js": "/clampv2/static/js/main.6e7b485a.js",
+    "main.css": "/clampv2/static/css/main.db781ecb.css",
+    "main.js": "/clampv2/static/js/main.ccc96c97.js",
     "static/js/453.0a1f1b2d.chunk.js": "/clampv2/static/js/453.0a1f1b2d.chunk.js",
     "index.html": "/clampv2/index.html",
-    "main.0ba6c1d5.css.map": "/clampv2/static/css/main.0ba6c1d5.css.map",
-    "main.6e7b485a.js.map": "/clampv2/static/js/main.6e7b485a.js.map",
+    "main.db781ecb.css.map": "/clampv2/static/css/main.db781ecb.css.map",
+    "main.ccc96c97.js.map": "/clampv2/static/js/main.ccc96c97.js.map",
     "453.0a1f1b2d.chunk.js.map": "/clampv2/static/js/453.0a1f1b2d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ba6c1d5.css",
-    "static/js/main.6e7b485a.js"
+    "static/css/main.db781ecb.css",
+    "static/js/main.ccc96c97.js"
   ]
 }
